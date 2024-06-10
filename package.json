@@ -4,7 +4,7 @@
   "description": "Setting up a new project with husky and lint-staged",
   "main": "index.ts",
   "scripts": {
-    "test": "jest jest --coverage --verbose --watchAll",
+    "test": "jest",
     "release": "webpack --mode production",
     "build": "webpack --mode development",
     "build:dev": "webpack --mode development",

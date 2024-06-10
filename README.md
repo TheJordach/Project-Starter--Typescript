@@ -165,7 +165,7 @@ module.exports = {
 
 ```sh
 "scripts": {
-    "test": "jest jest --coverage --verbose --watchAll",
+    "test": "jest",
     ...
 }
 ```
