@@ -1,0 +1,32 @@
+# Node.js files
+node_modules/
+
+# Compiled output
+/public/
+/out/
+
+# Environment variables
+.env
+
+# IDE files
+.idea/
+.vscode/
+
+# Log files
+*.log
+npm-debug.log*
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Miscellaneous
+*.swp
